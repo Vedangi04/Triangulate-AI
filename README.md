@@ -74,7 +74,7 @@ Being upfront about the current state:
 
 ### Demo
 
-No hosted deployment yet. The sample sales database is mock data for demonstration. Run it locally with the steps below (a Groq key and a Tavily key are needed).
+No deployment yet.
 
 ## Setup
 
