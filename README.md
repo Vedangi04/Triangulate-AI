@@ -74,7 +74,7 @@ Being upfront about the current state:
 
 ### Demo
 
-No hosted deployment yet. Run it locally with the steps below (a Groq key and a Tavily key are needed).
+No hosted deployment yet. The sample sales database is mock data for demonstration. Run it locally with the steps below (a Groq key and a Tavily key are needed).
 
 ## Setup
 
@@ -118,8 +118,3 @@ streamlit run app.py
 | `pdf_tool.py` | PDF reader for the `knowledge/` folder |
 | `setup_db.py` | Creates `company_data.db` with mock semiconductor sales data |
 | `knowledge/` | Sample internal strategy document |
-
-## Notes
-
-- `company_data.db` contains mock data for demonstration only.
-- Never commit your `.env` file. It is already in `.gitignore`.
